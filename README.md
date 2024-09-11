@@ -21,7 +21,7 @@ This is a simple Tic-Tac-Toe game built using Python's Tkinter library for the G
 ## Installation
 1. Clone this repository:
     ```
-    git clone https://github.com/your-username/tic-tac-toe
+    git clone https://github.com/JPraj902/Python-Programming
     ```
 2. Install the required dependencies:
     ```
